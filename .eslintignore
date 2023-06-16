@@ -1,0 +1,5 @@
+/node_modules
+/public
+/.eslintrc.cjs
+/build.mjs
+/esbuild.config.mjs
